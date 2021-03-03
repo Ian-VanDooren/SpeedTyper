@@ -1,0 +1,1 @@
+Speed typing game created following Traversy Media tutorial and using vanilla HTML, CSS and JS
